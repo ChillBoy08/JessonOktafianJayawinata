@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesson OKtafian Jayawinata</h1>
 <h3 align="center">I am a student at a university in Indonesia majoring in informatics engineering. I have big dreams to become an application developer and make my parents proud</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcultfilmz.com%2Falbum%2Fgif-means-in-computer&psig=AOvVaw1XdmqdRtWZ4Q-dbbKAJL0j&ust=1673698763583000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPi_6_TDxPwCFQAAAAAdAAAAABA1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessonoktafianjayawinata&label=Profile%20views&color=0e75b6&style=flat" alt="jessonoktafianjayawinata" /> </p>
 
