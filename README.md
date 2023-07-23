@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **in Esa Unggul University**
 
-- 💬 Ask me about **Flutter and Dart, but I'm not good at it yet**
+- 💬 Ask me about **Kotlin and Dart, but I'm not good at it yet**
 
 - 📫 How to reach me **oktafianjayawinatajesson@gmail.com**
 
