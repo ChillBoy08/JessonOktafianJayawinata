@@ -21,4 +21,4 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ae8d0f424d6b250997b8ba?variant=light" alt="roadmap.sh"/></a></p>
+<p><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ae8d0f424d6b250997b8ba?variant=dark" alt="roadmap.sh"/></a></p>
